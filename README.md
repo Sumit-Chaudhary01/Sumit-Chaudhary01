@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sumit Chaudhary — Data Analyst | SQL | Excel | Power BI
+# 👋 Hi, I'm Sumit Chaudhary — Data Analyst | Excel | SQL | Power BI
 
-I'm a passionate **Data Analyst** who enjoys exploring data, generating insights, and solving business problems using data-driven methods. I'm currently expanding my skills in **SQL, Excel, Power BI**, and **statistics**.
+I'm a passionate **Data Analyst** who enjoys exploring data, generating insights, and solving business problems using data-driven methods. I'm currently expanding my skills in **EXCEL, SQL** and Power **BI**.
 
 ## 🔍 What I Do
 - 📊 Analyze data to uncover trends and patterns
